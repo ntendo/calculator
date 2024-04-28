@@ -1,1 +1,3 @@
 This is the info file for the brand new calculator!
+
+I shall be handling the add part. ~pr
